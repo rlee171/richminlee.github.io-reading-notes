@@ -1,31 +1,32 @@
 ### Table of Content
 
-1.
 
-2.
+1. Introductory HTML and JavaScript
 
-3.
+2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-4.
+3. HTML Lists, CSS Boxes, JS Control Flow
 
-5.
+4. HTML Links, CSS Layout, JS Functions
 
-6.
+5. HTML Images; CSS Color & Text
 
-7.
+6. JS Object Literals; The DOM
 
-8.
+7. HTML Tables; JS Constructor Functions
 
-9.
+8. More CSS Layout
 
-10.
+9. Forms and Events
 
-11.
+10. JS Debugging
 
-12.
+11. Assorted Topics
 
-13.
+12. Docs for the HTML <canvas> Element & Chart.js
 
-14.
+13. Local Storage
 
-15.
+14. CSS Transforms, Transitions, and Animations
+
+15. What Google Learned About Teams
