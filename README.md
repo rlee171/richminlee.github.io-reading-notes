@@ -1,7 +1,7 @@
 ## Table of Content
 
 
-#### 1. * *Introductory HTML and JavaScript* *
+#### 1. * Introductory HTML and JavaScript *
      - HTML Chapter 1: “Structure” (pp.12-39)
      - HTML Chapter 8: “Extra Markup” (p.176-199)
      - HTML Chapter 17: “HTML5 Layout” (pp.428-451)
