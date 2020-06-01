@@ -1,32 +1,41 @@
 ### Table of Content
 
 
-1. Introductory HTML and JavaScript
+**1.** * *Introductory HTML and JavaScript* *
+-HTML Chapter 1: “Structure” (pp.12-39)
 
-2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
+-HTML Chapter 8: “Extra Markup” (p.176-199)
 
-3. HTML Lists, CSS Boxes, JS Control Flow
+-HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
-4. HTML Links, CSS Layout, JS Functions
+-HTML Chapter 18: “Process & Design” (pp.452-475)
 
-5. HTML Images; CSS Color & Text
+-JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
-6. JS Object Literals; The DOM
+**2.** * *HTML Text, CSS Introduction, and Basic JavaScript Instructions* *
 
-7. HTML Tables; JS Constructor Functions
+**3.** * *HTML Lists, CSS Boxes, JS Control Flow* *
 
-8. More CSS Layout
+**4.** * *HTML Links, CSS Layout, JS Functions* *
 
-9. Forms and Events
+**5.** * *HTML Images; CSS Color & Text* *
 
-10. JS Debugging
+**6.** * *JS Object Literals; The DOM* *
 
-11. Assorted Topics
+**7.** * *HTML Tables; JS Constructor Functions* *
 
-12. Docs for the HTML <canvas> Element & Chart.js
+**8.** * *More CSS Layout* *
 
-13. Local Storage
+**9.** * *Forms and Events* *
 
-14. CSS Transforms, Transitions, and Animations
+**10.** * *JS Debugging* *
 
-15. What Google Learned About Teams
+**11.** * *Assorted Topics* *
+
+**12.** * *Docs for the HTML <canvas> Element & Chart.js* *
+
+**13.** * *Local Storage* *
+
+**14.** * *CSS Transforms, Transitions, and Animations* *
+
+**15.** * *What Google Learned About Teams* *
